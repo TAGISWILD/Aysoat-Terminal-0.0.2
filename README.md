@@ -1,7 +1,24 @@
-# Aysoat-Terminal-0.0.2
-This is the second release of the AYSOAT TERMINAL
+# Aysoat Terminal 0.0.2
 
-In this Four Files 📂 code File is the Terminal,
-Sodec, Execu and run are also iportant files.
+Second release of Aysoat Terminal, a legacy Windows terminal experiment.
 
-**Keep All Of This In One Folder Only And Don't rename anything...**
+## Status
+
+Legacy archive. Kept public as part of the project timeline.
+
+## Contents
+
+- `code.exe` - terminal executable
+- `Sodec.exe` - support executable
+- `Execu.exe` - support executable
+- `run.bat` - launcher script
+
+Keep the files together in the same folder if you are inspecting the old build.
+
+## Newer Version
+
+[Aysoat-Terminal-0.1.0](https://github.com/TAGISWILD/Aysoat-Terminal-0.1.0)
+
+## Note
+
+This is an old binary release. Use a safe environment if you run it.
